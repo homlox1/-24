@@ -28,7 +28,7 @@ const defaultMenu = {
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *ᴰᴬᴿ ᴸᵂᴬᴿᴬᵀᴬ | M E N U*
+  ≡ *DAR LWARATA| M E N U*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
@@ -136,7 +136,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'ᴰᴬᴿ ᴸᵂᴬᴿᴬᵀᴬ ♥',
+title: 'DAR LWARATA ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/ef5d440489f144e994c99.jpg',
 sourceUrl: 'https://www.instagram.com/_othmaane?igsh=eWczaDcwN2w0aXBr',
